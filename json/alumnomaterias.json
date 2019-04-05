@@ -1,0 +1,49 @@
+[
+  {
+    "nombres": "Agustin Gianni",
+    "apellido": "Borello",
+    "legajo": 67510,
+    "carreras": [
+      {
+        "nombre": "Sistemas",
+        "fecha de ingreso": "2013-03-04",
+        "materias_cursadas": [
+          {
+            "nombre": "IAEW",
+            "fecha_de_inicio": "2019-03-05",
+            "fecha_de_examen": "2019-06-05",
+            "regular": true,
+            "promedio_final": 7
+          },
+          {
+            "nombre": "DSI",
+            "fecha_de_inicio": "2017-03-05",
+            "fecha_de_examen": "2017-06-05",
+            "regular": true,
+            "promedio_final": 6
+          }
+        ]
+      },
+      {
+        "nombre": "Quimica",
+        "fecha de ingreso": "2013-03-04",
+        "materias_cursadas": [
+          {
+            "nombre": "Quimica basica",
+            "fecha_de_inicio": "2017-03-05",
+            "fecha_de_examen": "2017-06-05",
+            "regular": true,
+            "promedio_final": 5
+          },
+          {
+            "nombre": "Quimica avanzada",
+            "fecha_de_inicio": "2018-03-05",
+            "fecha_de_examen": null,
+            "regular": false,
+            "promedio_final": null
+          }
+        ]
+      }
+    ]
+  }
+]
