@@ -1,0 +1,7 @@
+# URI Bien Formadas
+https://www.rosario.gob.ar/web/servicios/movilidad/bicicletas
+https://github.com/gini/dropwizard-gradle/blob/master/build.gradle
+
+# URI Mal formadas
+http://www.institucional.frc.utn.edu.ar/sistemas/Areas/Extension/Actividades.asp
+http://www.investigacion.frc.utn.edu.ar/mslabs/Pagina%20Nueva/multiflex32/index.html
